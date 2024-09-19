@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..",
+			"name": "RPhysics"
+		},
+		{
+			"path": "../modules",
+			"name": "RCommon"
+		}
+	],
+	"settings": {}
+}
